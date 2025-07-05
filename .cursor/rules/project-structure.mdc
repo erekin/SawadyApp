@@ -1,0 +1,11 @@
+---
+alwaysApply: true
+---
+
+The app uses React Native with Expo.
+It is structured using the following folder convention:
+
+- screens/ : Each page component (LoginScreen, HomeScreen, etc.)
+- components/ : Shared UI parts (Header, Button, etc.)
+- utils/ : Helper functions and constants
+- firebase/ : Firebase config and logic (e.g., firebaseConfig.ts)

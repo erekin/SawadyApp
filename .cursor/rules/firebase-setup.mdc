@@ -1,0 +1,12 @@
+---
+alwaysApply: true
+---
+
+Firebase is used for authentication, Firestore, and cloud functions.
+The initialization is handled in a single file: firebase/firebaseConfig.ts
+We use Email/Password authentication for users.
+Sensitive keys are managed via .env file and are not committed to the repository.
+Firebase is used for authentication, Firestore, and cloud functions.
+The initialization is handled in a single file: firebase/firebaseConfig.ts
+We use Email/Password authentication for users.
+Sensitive keys are managed via .env file and are not committed to the repository.

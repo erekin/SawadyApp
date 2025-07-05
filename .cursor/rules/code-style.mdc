@@ -1,0 +1,16 @@
+---
+alwaysApply: true
+---
+
+Use TypeScript for all files.
+Use camelCase for variables and functions.
+Use PascalCase for React component names.
+All components are functional.
+React Navigation v6 is used for screen transitions.
+Each screen file should be named like LoginScreen.tsx, HomeScreen.tsx, etc.
+Use TypeScript for all files.
+Use camelCase for variables and functions.
+Use PascalCase for React component names.
+All components are functional.
+React Navigation v6 is used for screen transitions.
+Each screen file should be named like LoginScreen.tsx, HomeScreen.tsx, etc.
